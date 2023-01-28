@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    background-color: rgb(249, 255, 253);
+    box-shadow: 0 4px 8px 0 rgba(54, 53, 53, 0.2), 0 6px 20px 0 rgba(54, 53, 53, 0.2);
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* .logo img{
+    width: 25%;
+    height: 25% ;
+} */
